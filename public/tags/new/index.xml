@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New on BizCraft - Responsive Html5 Template</title>
-    <link>http://localhost:1313/bizcraft/site/tags/new/</link>
+    <link>http://localhost:1313/tags/new/</link>
     <description>Recent content in New on BizCraft - Responsive Html5 Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Feb 2021 12:14:34 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/bizcraft/site/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If you are going to use a passage</title>
-      <link>http://localhost:1313/bizcraft/site/blog/post-2/</link>
+      <link>http://localhost:1313/blog/post-2/</link>
       <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/bizcraft/site/blog/post-2/</guid>
+      <guid>http://localhost:1313/blog/post-2/</guid>
       <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.</description>
     </item>
     <item>
       <title>If you are going to use a passage</title>
-      <link>http://localhost:1313/bizcraft/site/english/blog/post-2/</link>
+      <link>http://localhost:1313/english/blog/post-2/</link>
       <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/bizcraft/site/english/blog/post-2/</guid>
+      <guid>http://localhost:1313/english/blog/post-2/</guid>
       <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.</description>
     </item>
     <item>
       <title>If you are going to use a passage</title>
-      <link>http://localhost:1313/bizcraft/site/french/blog/post-2/</link>
+      <link>http://localhost:1313/french/blog/post-2/</link>
       <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/bizcraft/site/french/blog/post-2/</guid>
+      <guid>http://localhost:1313/french/blog/post-2/</guid>
       <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.</description>
     </item>
   </channel>
